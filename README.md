@@ -4,7 +4,7 @@ A simple todo application built with React.js and Vite.
 
 ## Key Features
 
-- **Add Cards:**Easily create new todo cards by providing a description.
+- **Add Cards:** Easily create new todo cards by providing a description.
 - **Delete Cards:** Remove unwanted cards from the list with a single click.
 
 ## Getting Started
