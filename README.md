@@ -43,3 +43,9 @@ npm run dev
 ```sh
 http://localhost:3000
 ```
+
+ # What You Should See
+
+ Below is an example of the output you should see:
+
+![Screenshot of the application](public/output.png)
