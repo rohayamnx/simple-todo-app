@@ -7,6 +7,11 @@ A simple todo application built with React.js and Vite.
 - **Add Cards:** Easily create new todo cards by providing a description.
 - **Delete Cards:** Remove unwanted cards from the list with a single click.
 
+## Technologies Used
+
+- React.js: A JavaScript library for building user interfaces.
+- Vite: A fast and minimalist build tool for modern web development.
+
 ## Getting Started
 
 ### 1. Clone the Repository
