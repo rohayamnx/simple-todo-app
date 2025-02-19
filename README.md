@@ -1,9 +1,40 @@
-# React + Vite
+# Todo App using ReactJS + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple todo application built with React.js and Vite. 
 
-Currently, two official plugins are available:
+## Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# simple-todo-app
+- **Add Cards:**Easily create new todo cards by providing a description.
+- **Delete Cards:** Remove unwanted cards from the list with a single click.
+
+## Getting Started
+
+### 1. Clone the Repository
+
+```sh
+git clone https://github.com/rohayamnx/simple-todo-app.git
+```
+
+### 2. Navigate to the Project
+
+```sh
+cd your-repo
+```
+
+### 3. Install Dependencies
+
+```sh
+npm install
+```
+
+### 4. Run the Development Server
+
+```sh
+npm run dev
+```
+
+### 5. Open your browser and navigate to
+
+```sh
+http://localhost:3000
+```
